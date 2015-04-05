@@ -12,11 +12,11 @@ BPMN 2.0プロセスエンジン の一つに [camunda](https://camunda.com/) �
 - Apache Maven 3.3.1
 
 ## スクリーンショット
-![shot-001-2015-04-05.png](shot-001-2015-04-05.png)
-![shot-002-2015-04-05.png](shot-002-2015-04-05.png)
-![shot-003-2015-04-05.png](shot-003-2015-04-05.png)
-![shot-004-2015-04-05.png](shot-004-2015-04-05.png)
-![shot-005-2015-04-05.png](shot-005-2015-04-05.png)
+![shot-001-2015-04-05.png](screenshots/shot-001-2015-04-05.png)
+![shot-002-2015-04-05.png](screenshots/shot-002-2015-04-05.png)
+![shot-003-2015-04-05.png](screenshots/shot-003-2015-04-05.png)
+![shot-004-2015-04-05.png](screenshots/shot-004-2015-04-05.png)
+![shot-005-2015-04-05.png](screenshots/shot-005-2015-04-05.png)
 
 eclipse 中での java の設定を 1.6 以上にしておかないと、maven で install したとkにき
 したときに dynamic web 設定について エラーが出る。
