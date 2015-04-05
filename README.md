@@ -2,7 +2,7 @@
 # BPMN エンジン camunda のサンプルを日本語化
 
 BPMN 2.0プロセスエンジン の一つに [camunda](https://camunda.com/) があります。  
-その[チュートリアル](http://docs.camunda.org/latest/guides/getting-started-guides/developing-process-applications/) のをなぞるとともに、少しだけ日本語化してみました。
+その[チュートリアル](http://docs.camunda.org/latest/guides/getting-started-guides/developing-process-applications/) をなぞるとともに、少しだけ日本語化してみました。
 
 ## 環境
 - MacOSX 10.2.2
